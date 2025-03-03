@@ -39,7 +39,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
     <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ogzjtbw9BR2kvN88btLRfK3Ffc9p3dVcNQ&s" height="40" alt="csharp logo"  />
+  <img src="https://api.civo.com/k3s-marketplace/aspnet.png" height="40" alt="csharp logo"  />
   
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
