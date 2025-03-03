@@ -10,9 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 Currently learning: Flutter & Backend Development<br>🎯 Goals: Master Full-Stack Development & Dive Deeper into Software Engineering<br>🎲 Fun fact: I turn coffee into code ☕💻<br>
-
+<p align="left">
 - ✨ Creating bugs since 2023
+- 📚 Currently learning: Flutter & Backend Development
+- 🎯 Goals: Master Full-Stack Development & Dive Deeper into Software Engineering
+- 🎲 Fun fact: I turn coffee into code ☕💻
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
