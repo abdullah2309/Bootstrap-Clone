@@ -39,7 +39,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
     <img width="12" />
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhost4asp.net%2Ffeatures-of-asp-net%2F&psig=AOvVaw093HFR-KH0LSpSXGpewTw4&ust=1741091665483000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCIjyqPn77osDFQAAAAAdAAAAABAK" height="40" alt="csharp logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ogzjtbw9BR2kvN88btLRfK3Ffc9p3dVcNQ&s" height="40" alt="csharp logo"  />
   
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
