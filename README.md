@@ -11,7 +11,8 @@
 ###
 
 <p align="left">✨ Creating bugs since 2023<br>📚 Currently learning: Flutter & Backend Development<br>🎯 Goals: Master Full-Stack Development & Dive Deeper into Software Engineering<br>🎲 Fun fact: I turn coffee into code ☕💻<br>
-  
+
+- ✨ Creating bugs since 2023
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
