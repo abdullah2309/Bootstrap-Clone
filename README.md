@@ -10,8 +10,8 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 Currently learning: Flutter & Backend Development<br>🎯 Goals: Master Full-Stack Development & Dive Deeper into Software Engineering<br>🎲 Fun fact: I turn coffee into code ☕💻<br><br>💻 Full-Stack Developer<br>Hi! I'm Abdullah, a passionate Full-Stack Web Developer and a Software Engineering student at Aptech. I specialize in both front-end and back-end development, crafting user-friendly and efficient web applications.</p>
-
+<p align="left">✨ Creating bugs since 2023<br>📚 Currently learning: Flutter & Backend Development<br>🎯 Goals: Master Full-Stack Development & Dive Deeper into Software Engineering<br>🎲 Fun fact: I turn coffee into code ☕💻<br>
+  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -20,6 +20,9 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+  
+<br>💻 Full-Stack Developer<br>Hi! I'm Abdullah, a passionate Full-Stack Web Developer and a Software Engineering student at Aptech. I specialize in both front-end and back-end development, crafting user-friendly and efficient web applications.</p>
+
 ###
 
 <h2 align="left">I code with</h2>
